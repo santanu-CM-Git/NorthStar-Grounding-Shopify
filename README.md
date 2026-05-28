@@ -3,6 +3,14 @@
 ## Url
 https://northstargrounding.com
 
+## Product Listing With Filters
+
+<img src="./product-listing-filters.png" width="100%" />
+
+## Product Details including Gallery & Variations
+
+<img src="./prduct-details.png" width="100%" />
+
 ## Project Overview
 
 NorthStar Grounding is a Shopify-based eCommerce website developed using the Dawn theme with Schema Version 12.0.0. The main goal of the project was to create a clean, fast, and user-friendly shopping experience while keeping the website easy to manage from the Shopify admin panel.
